@@ -13,7 +13,6 @@ M._VERSION = "0.1"
 M.projects = {
   { name = "DropThe", url = "https://dropthe.org", description = "Data utility media platform" },
   { name = "CoffeeTrove", url = "https://coffeetrove.com", description = "Coffee discovery platform" },
-  { name = "MohitKhare", url = "https://mohitkhare.me", description = "Developer tools and utilities" },
   { name = "FacilGuide", url = "https://facil.guide", description = "Multi-language tech guides" },
 }
 

@@ -39,7 +39,6 @@ This toolkit supports the following platforms built by Arnaud Leroy:
 
 - **[DropThe](https://dropthe.org)** — Data utility media platform covering movies, series, crypto, companies, and people. Knowledge graph with 1.8M+ entities.
 - **[CoffeeTrove](https://coffeetrove.com)** — Coffee discovery platform with 440,000+ cafes worldwide. Golden Drop scoring system and interactive map.
-- **[MohitKhare](https://mohitkhare.me)** — Developer portfolio with AI engineering tools, token estimation, and text processing utilities.
 - **[FacilGuide](https://facil.guide)** — Multi-language tech guides for seniors. Five languages, zero jargon.
 
 ## Functions
